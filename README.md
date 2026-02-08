@@ -10,3 +10,6 @@ this project uses Windows api functions of critical sections & conditional varai
 i decided to publish this simple demo to help out people who are beginning like me to help each other with code , any issues or improvements submited about the code would be appriciated :)
 
 ---
+
+`Overview diagram of how conditional variables work with winapi`
+<img width="814" height="480" alt="image" src="https://github.com/user-attachments/assets/38971219-1b00-4b02-927b-019209853cd0" />
