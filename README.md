@@ -14,4 +14,4 @@ i decided to publish this simple demo to help out people who are beginning like 
 `Overview diagram of how conditional variables work with winapi`
 <img width="814" height="480" alt="image" src="https://github.com/user-attachments/assets/38971219-1b00-4b02-927b-019209853cd0" />
 
-worth mentioning coding jesus video: (Video)[https://www.youtube.com/watch?v=to0Zvr31wIQ&t=835s]
+worth mentioning coding jesus video: [video](https://www.youtube.com/watch?v=to0Zvr31wIQ&t=835s)
