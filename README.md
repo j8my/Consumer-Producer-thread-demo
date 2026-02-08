@@ -7,7 +7,7 @@ the idea came when i was watching coding jesus video and he was discussing a sim
 this project uses Windows api functions of critical sections & conditional varaibles, it also implents a queue in C structure , and inserting randomness in consumer and producer working flow
 
 ### **Final words**
-i decided to publish this simple demo to help out people who are beginning like me to help each other with code , any issues or improvements submited about the code would be appriciated :)
+i decided to publish this simple demo to help out people who are beginning like me to help each other with code , any issues or improvements submited about the code would be appriciated :), also if you even consider using multiple consumer threads then make sure that producer thread signal the conditional variable for all the threads not just a random one also make sure to check what thread own the CS so it doesnt cause issues when the producer finishes its work
 
 ---
 
